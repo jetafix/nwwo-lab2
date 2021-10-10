@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-
 Oto nasza wspólna historia
 Za górami, za lasami
 żyła baba z talibami,
-
+było ciemno
+>>>>>>> trzecia-linijka
