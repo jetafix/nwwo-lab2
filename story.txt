@@ -3,5 +3,11 @@ Za górami, za lasami
 żyła baba z talibami,
 było ciemno,
 ale nie za ciemno
+<<<<<<< HEAD
 i nie za jasno,
 tak w sam raz kurza twarz.
+=======
+ale nie za jasno
+tak idealnie jest
+wiec czas juz do domu
+>>>>>>> historia3
